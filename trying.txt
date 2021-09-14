@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 coba diedit jodi
 coba edit file txt remote repository
+=======
+coba coba coba
+>>>>>>> parent of a75b42b (aku nambah dilokal)
